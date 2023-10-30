@@ -4,6 +4,7 @@
 * Visual Studio Code
 * MSSQL Server
 * Power BI Desktop
+* GitHub
 
 # Steps to make this project work
 
