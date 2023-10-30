@@ -1,17 +1,17 @@
 
-#Software needed
+# Software needed
 
-*Visual Studio Code
-*MSSQL Server
-*Power BI Desktop
+* Visual Studio Code
+* MSSQL Server
+* Power BI Desktop
 
-#Steps to make this project work
+# Steps to make this project work
 
-##1- MS SQL Server
+## 1- MS SQL Server
 
 New database and tables were created by using the code from ddl.sql file
 
-##2- Visual Studio Code:
+## 2- Visual Studio Code:
 
 Create new folder called: API_FLASK_SQLSERVER
 
@@ -36,12 +36,12 @@ Now, if website is used, data will be taken from the csv files and transferred i
 To access website, execute code and enter the IP+route in a new browser window, e.g.: http://127.0.0.1:5000/add_file
 "add_file" is the route
 
-##3- MS SQL Server (again)
+## 3- MS SQL Server (again)
 
 Created tables for challenge 2 (visuals for requirement 1 and 2) using the code from the following files:
 challenge_2_requirement_1.sql and challenge_2_requirement_2.sql
 
-##4- Power BI Desktop
+## 4- Power BI Desktop
 
 Visual for both requirements were created in 1 single tab
 Data was pulled from tables created in SQL Server (step #3)
